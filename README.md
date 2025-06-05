@@ -7,7 +7,11 @@ This repository serves as a simple and predictable **link redirector** system th
 ## Purpose
 
 Each folder in this repository is named after a unique **code** corresponding to an item I track in my personal inventory system. When I visit:
+
+```
 https://<my-github-username>.github.io/estoque/<code>
+```
+
 I am automatically redirected to a private, unrelated URL (such as a Notion page) that contains detailed information about the item.
 
 ## How It Works
